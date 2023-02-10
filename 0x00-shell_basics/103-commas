@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -amXr --group-directories-first --file-type
+ls -amX --group-directories-first --file-type
